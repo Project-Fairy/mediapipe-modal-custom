@@ -240,7 +240,8 @@ files.download('exported_model/model.tflite')
 ```
 
 ### Result
-[model.tflite](https://prod-files-secure.s3.us-west-2.amazonaws.com/f3399cc4-3fba-41b7-b0c4-bf63f4ec904b/cea42994-3c32-47a0-98c7-2fecc1b3020f/model.tflite)
+you can downlad at this repository
+![model.tflite]([https://prod-files-secure.s3.us-west-2.amazonaws.com/f3399cc4-3fba-41b7-b0c4-bf63f4ec904b/cea42994-3c32-47a0-98c7-2fecc1b3020f/model.tflite](https://github.com/Project-Fairy/mediapipe-modal-custom/blob/main/model.tflite))
 
 ---
 <br/> <br/>
